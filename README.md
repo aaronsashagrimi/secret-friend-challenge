@@ -11,10 +11,6 @@ Una aplicación web simple e interactiva para organizar sorteos de amigo secreto
 - **Diseño responsivo**: Funciona perfectamente en dispositivos móviles y desktop
 - **Sin dependencias externas**: Funciona con HTML, CSS y JavaScript vanilla
 
-## 🚀 Demo
-
-![Amigo Secreto Demo](assets/amigo-secreto.png)
-
 ## 📋 Cómo usar
 
 1. **Agregar participantes**: 
